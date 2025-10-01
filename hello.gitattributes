@@ -1,0 +1,4 @@
+git add .gitattributes
+git add model.keras
+git commit -m "Added keras model using Git LFS"
+git push origin main
